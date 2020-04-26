@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.97f30ea9.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.97f30ea9.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.d4b1385c.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.d4b1385c.js.map",
-    "static/js/2.1d2b3ee7.chunk.js": "/react-gh-pages/static/js/2.1d2b3ee7.chunk.js",
-    "static/js/2.1d2b3ee7.chunk.js.map": "/react-gh-pages/static/js/2.1d2b3ee7.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.a00b909919925d5dafb8664339cb045c.js": "/react-gh-pages/precache-manifest.a00b909919925d5dafb8664339cb045c.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-gh-pages/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.1d2b3ee7.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.1d2b3ee7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Ejercico/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Ejercicio/static/js/main.97f30ea9.chunk.js",
+    "main.js.map": "/Ejercicio/static/js/main.97f30ea9.chunk.js.map",
+    "runtime-main.js": "/Ejercicio/static/js/runtime-main.d4b1385c.js",
+    "runtime-main.js.map": "/Ejercicio/static/js/runtime-main.d4b1385c.js.map",
+    "static/js/2.1d2b3ee7.chunk.js": "/Ejercicio/static/js/2.1d2b3ee7.chunk.js",
+    "static/js/2.1d2b3ee7.chunk.js.map": "/Ejercicio/static/js/2.1d2b3ee7.chunk.js.map",
+    "index.html": "/Ejercicio/index.html",
+    "precache-manifest.a00b909919925d5dafb8664339cb045c.js": "/Ejercicio/precache-manifest.a00b909919925d5dafb8664339cb045c.js",
+    "service-worker.js": "/Ejercicio/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Ejercicio/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1d2b3ee7.chunk.js.LICENSE.txt": "/Ejercicio/static/js/2.1d2b3ee7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Ejercicio/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4b1385c.js",
